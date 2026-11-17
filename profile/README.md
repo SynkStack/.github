@@ -10,21 +10,26 @@
 
 The repositories cover backend services, infrastructure and operations, and Android applications. Together, they provide a view of how the project is divided into independently maintained components.
 
+## Project website
+
+Explore the live Opsynck project website:
+
+**[Opsynck Website](https://ops-synk-website.onrender.com/)**
+
 ## Team
 
-The project work represented in this organization was carried out by:
+The Opsynck project is a collaborative effort by:
 
-| Team member | Contribution record |
-|---|---|
-| **Kanishka Tyagi** | Visible commit / integration activity in **OpsMonitor**, **InvoiceFlow**, and **AuthCore** |
-| **Kanishka Lodhi** | Visible repository setup and Android project activity in **mobile-fieldtrack** and **mobile-grindquest** |
-| **Ishita Srivastava** | Visible repository setup / integration activity in **Infrastructure-Ops**, **UserService-API-Gateway**, and **NotificationHub** |
+- **Krish Kumar Chaurasia**
+- **Kanishka Tyagi**
+- **Kanishka Lodhi**
+- **Ishita Srivastava**
 
-GitHub's commit and pull-request history is the source of truth for the exact changes made by each contributor. Open a repository and review its **Commits**, **Pull requests**, and **Actions** tabs for the detailed record.
+For a detailed view of individual work, refer to the commit history and pull requests in the relevant repositories. Team responsibilities may evolve during the project, so this overview intentionally lists members without assigning fixed roles.
 
 ### Note about demonstration accounts
 
-Some sample repository activity may display the name **Rohan Mehta**. This is a dummy/demo account used for testing and is **not a member of the project team**. The project team members are the three people listed above.
+Some sample repository activity may display the name **Rohan Mehta**. This is a dummy/demo account used for testing and is **not a member of the project team**. The project team members are the four people listed above.
 
 ## Repositories
 
@@ -73,7 +78,7 @@ For an effective project review, we recommend this order:
 - **Project:** Opsynck
 - **GitHub organization:** SyncStack
 - **Purpose of this organization:** Demo and review showcase for the college DevOps project
-- **Team:** Kanishka Tyagi · Kanishka Lodhi · Ishita Srivastava
+- **Team:** Krish Kumar Chaurasia · Kanishka Tyagi · Kanishka Lodhi · Ishita Srivastava
 
 ---
 
